@@ -1,7 +1,0 @@
-Queen Aurala ir'Wynarn is the ruler of [[1 - Aundair|Aundair]]. Acceding to the throne 18 years ago when Aundair was in an extremely weak position in the Last War, Aurala proved herself an expert diplomat, securing ceasefires in critical fronts, forging alliances with minor factions and using mercenaries to provide Aundair the breathing room to recover. Her ability to use diplomacy as a weapon was equally impressive: she recognized the nation of [[8 - Valenar|Valenar]], providing them the legitimacy they needed to rebel and break away from [[5 - Cyre (the Mournland)|Cyre]], dealing a heavy blow to her enemy.
-
-Aundair's infrastructure and quality of life are a top domestic priority for the Queen, and both have massively improved under her rule; she seems to sincerely desire to make her subjects' lives better, and occasionally has indicated she wishes to do the same to the people of the rest of the Five Nations.
-
-The Last War ended inconclusively, but the last two decades of the war had begun to swing in Aundair's favor. Many believe that Aurala may have been capable of finally ending it decisively in an Aundarian victory. Observers speculate that Aurala herself may also believe this, for she has continued to build Aundair's infrastructure and military power, and she makes no secret of her desire to regain the territory Aundair lost in the war. If the Last War were to resume, it may be because Aurala makes her move.
-
-![[aurala.png]]

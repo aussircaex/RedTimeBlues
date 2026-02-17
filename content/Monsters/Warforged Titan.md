@@ -1,9 +1,0 @@
-Titans are massive constructs built to wreak havoc on enemy armies. They stand eighteen feet tall and bear a massive axe and hammer on the end of their arms instead of hands. They are notable among constructs because they are indeed sapient creatures, unlike [[Iron Defender|Iron Defenders]] and other homunculi. However, their intellectual abilities are extremely limited; they are able to understand language, but are not able to solve problems or think creatively even as well as humanoid children are. They do not share the trait of warforged to be able to be raised from the dead, and so are not considered "living" constructs.
-
-In the fifth and sixth decades of the [[The Last War|Last War]], [[Cannith - Making|House Cannith]] was investigating the idea of producing self-propelled and self-sustaining weaponry to sell to the war effort, having had success with their Iron Defenders as guards and sentries. They experimented with the prospect of producing golems, but golems require the binding of elemental spirits to the body, the technology for which is kept secret by [[7 - Zilargo|Zilargo]], who refused to participate.
-
-However, adventurers returned from the continent of Xen'drik, where they had discovered ancient war constructs of giantish design, which did not require binding of elementals. Cannith artificers adapted their designs, and produced the first Warforged Titans in 959 YK.
-
-House Cannith does not speak publicly about its trade secrets regarding the creation of Warforged, but popular opinion is that the sapience of Titans was a surprise to Cannith artificers, who nonetheless refined the process to focus on their creations' intelligence, and the modern Warforged were the result, premiering in 965 YK (33 years before the present day of 998 YK).
-
-![[WF Titan.webp]]

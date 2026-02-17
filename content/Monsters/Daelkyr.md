@@ -1,8 +1,0 @@
-The daelkyr are not the most powerful beings from the plane of [[Xoriat, the Realm of Madness|Xoriat]], but they *are* the most powerful beings from Xoriat who exist on Eberron, and who crossed over during their invasion millennia ago. The Dhakanni Empire exhausted itself fighting them, but was able to ally with the Gatekeeper druids to seal the daelkyr within Khyber, and to push Xoriat away from Eberron.
-
-Since then, the daelkyr have not made a significant or unified attempt to break their imprisonment. The wards do not prevent the daelkyr from moving freely within Khyber; only to prevent them from leaving it. They have since seemed content to influence Eberron from afar, corrupting mortals, beginning cults, and enacting whatever unfathomable agenda they please. They are definitionally impossible to understand, being beings of pure madness, but they seem to conduct themselves as artists or scientists rather than conquerors; that they use mortals as playthings for their own amusement just to see what will happen.
-
-Some daelkyr whose identities are known:
-* Dyrrn the Corruptor, famous for taking living beings and transforming them into grotesque mockeries of their former selves.
-* Belashyrra, the Lord of Eyes, is said to be able to see through the eyes of any of its creations. It is said to have created the fearsome Beholders.
-* Orlassk, the Lord of Stone, creates creatures out of stone, or who can manipulate stone in some way. It created the medusas, basilisks, and cockatrices.
