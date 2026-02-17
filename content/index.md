@@ -1,4 +1,4 @@
 ---
-title: Moonshine Gang D&D Game
+title: Red Time Blues - Cyberpunk RED Game
 ---
-Welcome to the handouts / journal / lore site for our D&D game set in Eberron and presently centered around the charity clinic Moonshine.
+Welcome to the handouts / journal / lore site for our Cyberpunk RED game using FoundryVTT
