@@ -1,0 +1,6 @@
+![[tarmo-juhola-cyberpunkcity-kopio.jpg]]
+Night City is an autonomous city-state on the west coast of the United States. It was previously part of the state of California, then the Free State of Northern California, and finally part of the Pacifica Confederation, but is allowed to operate independently as a free-trade zone from the Confederation.
+
+By 2020, the Corporations had forcibly ended mob rule in the city, creating a stable, if oppressive, society. Due to this independence, it was home to military units on both sides of the Fourth Corporate War, which made the city a major battlefield in the conflict, with constant street-to-street fighting that ravaged entire blocks at a time, culminating in a nuclear explosion that devastated much of the city in 2023.
+
+Much of the city was abandoned and a wasteland until about 2040, when the major rebuilding project began, thanks to the help of the Aldecaldo Nomad clan and their allies in the StormTech corporation. Megabuildings to house the population have begun to rise, and massive construction and rebuilding is underway - with all of the opportunity, jockeying for power, violence, and tragedy that comes with it.
