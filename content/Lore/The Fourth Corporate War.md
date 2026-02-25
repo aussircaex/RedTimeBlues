@@ -1,0 +1,11 @@
+The Fourth Corporate War was a global conflict that took place mostly from 2021 to 2023, with smaller pockets of fighting finally ending in 2025. What started as a contest between two rival underwater shipping corporations - OTEC and CINO - to buy out a bankrupted competitor turned bloody when they each began hiring mercenaries to interfere with each other's operations - assassinating negotiators, engaging in netrunning attacks on their financial exchanges, and so on.
+
+When neither side gained the upper hand, OTEC hired [[Militech International|Militech]] to serve as their military, and in response, CINO hired [[Arasaka]]. As the violence grew out of hand, various governments were able to force OTEC and CINO to the negotiating table. However, the conflict between Militech and Arasaka had grown beyond a mere matter of business, and the war between them continued in the shadows, for a time.
+
+By the end of May 2022, the shadow war erupted into an open conflict, with Arasaka attacking Militech's factories in Virginia and Militech attacking Arasaka's facilities in Yokohama. The war spread across the globe, and even into space. The beginning of the DataKrash did nothing to quell the hostilities. Both sides began using chemical and biological weapons, killing thousands of people en masse in cities.
+
+By the fall of 2022, various governments nationalized Militech and Arasaka's facilities in an attempt to force an end to the conflict. While this meant an end to the global war, fighting continued unabated on a crucial battlefield under the control of no outside government: [[Night City]]. Both corporations moved the bulk of their forces to the city, and nine months of bloody, grueling, street-to-street, door-to-door, and floor-to-floor fighting ensued.
+
+Finally, on August 20, 2023, a Militech strike team assaulted Arasaka Towers and detonated a nuclear device, killing half a million immediately and hundreds of thousands more over the following weeks. This led to the period known as [[The Time of the Red]].
+
+While Militech and Arasaka had been partially nationalized before, the American and Japanese governments fully took control over the corporations, forcibly ending the conflict.
