@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Red Time Blues - Welcome to Night City
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[nightcity.png]]
